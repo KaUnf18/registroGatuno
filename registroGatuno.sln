@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "registroGatuno", "registroGatuno.csproj", "{267C3F98-E7BD-4F88-8D73-184EA79DF503}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "registroGatuno.Tests", "..\registroGatuno.Tests\registroGatuno.Tests.csproj", "{359DB978-DF88-4FCC-B0E9-44FACE6AE457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{267C3F98-E7BD-4F88-8D73-184EA79DF503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267C3F98-E7BD-4F88-8D73-184EA79DF503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267C3F98-E7BD-4F88-8D73-184EA79DF503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267C3F98-E7BD-4F88-8D73-184EA79DF503}.Release|Any CPU.Build.0 = Release|Any CPU
+		{359DB978-DF88-4FCC-B0E9-44FACE6AE457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359DB978-DF88-4FCC-B0E9-44FACE6AE457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359DB978-DF88-4FCC-B0E9-44FACE6AE457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359DB978-DF88-4FCC-B0E9-44FACE6AE457}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3449169C-1C4A-40DC-B87A-844AF248A038}
+	EndGlobalSection
+EndGlobal
